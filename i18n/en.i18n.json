@@ -1,0 +1,131 @@
+{
+    "badges" : {
+        "general": "general",
+        "more": "more",
+        "heartrate": "heart rate",
+        "weight": "weight",
+        "distance": "distance",
+        "steps": "steps",
+        "sleep": "sleep",
+        "bloodpressure": "blood pressure",
+        "time": "time",
+        "generalFeeling": "general",
+        "sleepFeeling": "sleep",
+        "trainingFeeling": "training",
+        "nutritionFeeling": "nutrition",
+        "workpoints": "workpoints",
+        "light_sleep": "light sleep",
+        "deep_sleep": "deep sleep",
+        "quality_sleep": "sleep quality",
+        "fatigue_sleep": "fatigue",
+        "sense_training": "want to train",
+        "sick_health_training": "healthiness",
+        "pain_training": "pain",
+        "score_training": "training score",
+        "breakfast": "breakfast",
+        "lunch": "lunch",
+        "diner": "diner",
+        "go_sport": "You have not earned any badges yet, work out and earn more badges!",
+        "look_badges": "View badges"
+    },
+
+    "general": {
+        "login_please": "Please log in."
+    },
+
+    "highscore": {
+        "points": "points",
+        "point": "point",
+        "more": "more",
+        "overview": "overview",
+        "personal": "personal",
+        "general": "general",
+        "sportsclub": "sportsclub",
+        "team": "team",
+        "this_week": "This week"
+    },
+
+    "profilepage": {
+        "certificates": "certificates",
+        "highscores": "highscores",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "date_of_birth": "Date of birth",
+        "badminton_club": "Badminton club",
+        "score": "Score",
+        "team": "Team",
+        "current_days_row": "Days in a row",
+        "max_days_row": "Max days in a row"
+    },
+
+    "startpage": {
+        "add_workout": "add data",
+        "profile": "Profile",
+        "settings": "Settings",
+        "view_workouts": "view data",
+        "personal_goals": "personal goals",
+        "miband": "Mi Band 2",
+        "start_sport": "start sport",
+        "stop_sport": "stop sport"
+    },
+
+    "analyseWorkouts": {
+        "day": "day",
+        "week": "week",
+        "month": "month",
+        "year": "year",
+        "all": "overview"
+    },
+
+    "addWorkouts": {
+        "general": "General",
+        "sleep": "Sleep",
+        "training": "Training",
+        "nutrition": "Nutrition",
+        "other": "Other",
+        "general_feeling": "General feeling",
+        "weight": "Weight",
+        "quality_sleep": "Sleep quality",
+        "rested": "Rested",
+        "sleep_patern": "Sleep pattern",
+        "light_sleep": "Light sleep",
+        "deep_sleep": "Deep sleep",
+        "sense_training": "Want to train",
+        "sick_health_training": "Healthiness",
+        "pain_training": "Pain",
+        "score_training": "Training score",
+        "workpoint": "Workpoint",
+        "breakfast": "Breakfast",
+        "lunch": "Lunch",
+        "diner": "Diner",
+        "steps": "Steps",
+        "completed_all": "you have fully completed all categories",
+        "back": "back",
+        "next": "next",
+        "undo": "undo",
+        "max_heartrate": "Maximum heart rate",
+        "avg_heartrate": "Average heart rate",
+        "bpm": "BPM",
+        "sporttime": "Sport time"
+    },
+
+    "goals": {
+        "footsteps": "footsteps",
+        "sport_time": "sport time",
+        "sport_sessions": "sport sessions",
+        "last_weeks": "Last weeks:",
+        "fill_in_goal": "Please fill in your goal for this week:",
+        "this_week_goal": "Your goal for this week:",
+        "steps_day": "steps/day",
+        "sessions": "sessions"
+    },
+
+    "labels": {
+        "bpm": "BPM",
+        "kg": "kg",
+        "steps": "steps",
+        "time": "time",
+        "sportsessions": "sport sessions",
+        "feeling": "feeling"
+    }
+}

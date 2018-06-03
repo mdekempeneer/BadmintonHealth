@@ -1,0 +1,131 @@
+{
+    "badges" : {
+        "general": "algemeen",
+        "more": "meer",
+        "heartrate": "hartslag",
+        "weight": "gewicht",
+        "distance": "afstand",
+        "steps": "stappen",
+        "sleep": "slaap",
+        "bloodpressure": "bloeddruk",
+        "time": "tijd",
+        "generalFeeling": "algemeen",
+        "sleepFeeling": "slaap",
+        "trainingFeeling": "training",
+        "nutritionFeeling": "voeding",
+        "workpoints": "werkpunten",
+        "light_sleep": "lichte slaap",
+        "deep_sleep": "diepe slaap",
+        "quality_sleep": "slaap kwaliteit",
+        "fatigue_sleep": "vermoeidheid",
+        "sense_training": "zin in training",
+        "sick_health_training": "gezondheid",
+        "pain_training": "pijn-stijf",
+        "score_training": "trainingsscore",
+        "breakfast": "ontbijt",
+        "lunch": "middageten",
+        "diner": "avondeten",
+        "go_sport": "Je hebt nog geen badges verdiend, ga sporten en verdien zo meer badges!",
+        "look_badges": "Bekijk badges"
+    },
+
+    "general": {
+        "login_please": "Gelieve in te loggen."
+    },
+
+    "highscore": {
+        "points": "punten",
+        "point": "punt",
+        "more": "meer",
+        "overview": "overzicht",
+        "personal": "persoonlijk",
+        "general": "algemeen",
+        "sportsclub": "sportclub",
+        "team": "team",
+        "this_week": "Deze week"
+    },
+
+    "profilepage": {
+        "certificates": "certificaten",
+        "highscores": "highscores",
+        "first_name": "Voornaam",
+        "last_name": "Achternaam",
+        "date_of_birth": "Geboortedatum",
+        "badminton_club": "Badminton club",
+        "score": "Aantal punten",
+        "team": "Team",
+        "current_days_row": "Dagen op rij",
+        "max_days_row": "Max dagen op rij"
+    },
+
+    "startpage": {
+        "add_workout": "gegevens toevoegen",
+        "profile": "Profiel",
+        "settings": "Instellingen",
+        "view_workouts": "gegevens bekijken",
+        "personal_goals": "persoonlijke doelen",
+        "miband": "Mi Band 2",
+        "start_sport": "start sport",
+        "stop_sport": "stop sport"
+    },
+
+    "analyseWorkouts": {
+        "day": "dag",
+        "week": "week",
+        "month": "maand",
+        "year": "jaar",
+        "all": "overzicht"
+    },
+
+    "addWorkouts": {
+        "general": "Algemeen",
+        "sleep": "Slaap",
+        "training": "Training",
+        "nutrition": "Voeding",
+        "other": "Andere",
+        "general_feeling": "Algemeen gevoel",
+        "weight": "Gewicht",
+        "quality_sleep": "Kwaliteit slaap",
+        "rested": "Uitgerustheid",
+        "sleep_patern": "Slaap patroon",
+        "light_sleep": "Lichte slaap",
+        "deep_sleep": "Diepe slaap",
+        "sense_training": "Zin in training",
+        "sick_health_training": "Ziek - gezond",
+        "pain_training": "Pijn en/of stijfheid",
+        "score_training": "Training score",
+        "workpoint": "Werkpunt",
+        "breakfast": "Ontbijt",
+        "lunch": "Middageten",
+        "diner": "Avondeten",
+        "steps": "Stappen",
+        "completed_all": "je hebt alle categorieën volledig ingevuld!",
+        "back": "terug",
+        "next": "volgende",
+        "undo": "ongedaan maken",
+        "max_heartrate": "Hoogste hartslag",
+        "avg_heartrate": "Gemiddelde hartslag",
+        "bpm": "BPM",
+        "sporttime": "Sport tijd"
+    },
+
+    "goals": {
+        "footsteps": "voetstappen",
+        "sport_time": "sport tijd",
+        "sport_sessions": "sport sessies",
+        "last_weeks": "Afgelopen weken:",
+        "fill_in_goal": "Vul jouw doel van deze week in:",
+        "this_week_goal": "Jouw doel voor deze week:",
+        "steps_day": "stappen/dag",
+        "sessions": "sessies"
+    },
+
+    "labels": {
+        "bpm": "BPM",
+        "kg": "kg",
+        "steps": "stappen",
+        "time": "tijd",
+        "sportsessions": "sport sessies",
+        "feeling": "gevoel"
+    }
+}

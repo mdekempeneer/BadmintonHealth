@@ -1,0 +1,9 @@
+cordova-android-play-services-gradle-release@1.2.1
+cordova-custom-config@5.0.2
+cordova-plugin-console@1.1.0
+cordova-plugin-device@1.1.5
+cordova-plugin-meteor-webapp@https://github.com/bmanturner/cordova-plugin-meteor-webapp.git#16bc26dd7434496468287bfdc654ef1fb1a97436
+cordova-plugin-splashscreen@4.1.0
+cordova-plugin-statusbar@2.3.0
+cordova.plugins.diagnostic@3.0.2
+phonegap-plugin-push@1.5.2

@@ -1,0 +1,10 @@
+node_modules/
+.meteor/.id
+common.js
+mobile-config.js
+private/entrust_2048_ca.cer
+private/PushChatCert.pem
+private/PushChatKey.pem
+public/images/
+images/icon/
+images/launch/

@@ -1,0 +1,12 @@
+{
+    "galaxy.meteor.com" : {
+        "env" : {
+        }
+    },
+    "public": {
+        "analyticsSettings": {
+            "Google Analytics": {
+            }
+        }
+    }
+}
